@@ -28,9 +28,9 @@ Here is a record of my production process.
 I made a PCB at JLCPCB.com, which makes it very easy to make!
 
 ![github](https://github.com/James-workshop/PCB-Christmas-Tree/blob/main/img/%E8%81%96%E8%AA%95%E6%A8%B97.jpg "Christmas Tree")
-
+  
 ### ![github](https://jlcpcb.com/client/svg/nv_logo.svg "JLCPCB") Make hardware development easier, Higher Quality & Lower Cost
-### New registered users offer , **Order here https://jlcpcb.com/HAR**
+### New registered users offer , **[Order here ](https://jlcpcb.com/?from=James)**
 ### You can use my Gerber file to place an order at JLCPCB.com
   
     
